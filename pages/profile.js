@@ -1,6 +1,6 @@
 import React from 'react'
 
- Profile =()=> {
+const Profile =()=> {
   return 'profile'
 }
  
