@@ -4,4 +4,4 @@ import React from 'react'
   return 'profile'
 }
  
- export default profile
+ export default Profile
